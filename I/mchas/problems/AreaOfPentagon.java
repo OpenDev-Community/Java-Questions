@@ -1,4 +1,4 @@
-package DanielLiang.FundamentalOfProgramming.MathematicalFunctionsCharacterAndStrings;
+
 import java.util.*;
 
 public class AreaOfPentagon {
